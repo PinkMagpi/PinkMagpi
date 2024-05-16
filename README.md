@@ -9,7 +9,7 @@
   
   ***I also have an [account on itch.io](https://pinkmagpi.itch.io/)!***
 
-  I’m currently learning C++ and SDL2 to try out another language and framework. I've also tried out some other things like a bit of C#, Lua, Assembly 6502 and Godot.
+  I'm currently simply trying to learn about whatever game developing frameworks I find interesting. I've mostly played around with a bit of C#, Lua, Assembly 6502 and Godot for now.
 
   
 
